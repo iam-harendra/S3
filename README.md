@@ -13,6 +13,8 @@
 ![image](https://github.com/iam-harendra/S3/assets/96298529/b782885e-4555-4206-b8b5-eb184afb4aa1)
 ### copy and paste the url in browser
 ![image](https://github.com/iam-harendra/S3/assets/96298529/366d0691-81ae-41b3-aff4-7daa20719595)
+![image](https://github.com/iam-harendra/S3/assets/96298529/91fcee21-13e7-4acd-9c0c-862c30896f61)
+
 
 
 
